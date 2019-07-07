@@ -1,0 +1,14 @@
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb

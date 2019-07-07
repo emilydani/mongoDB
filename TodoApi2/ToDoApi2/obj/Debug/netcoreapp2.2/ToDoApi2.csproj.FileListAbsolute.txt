@@ -1,0 +1,14 @@
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\bin\Debug\netcoreapp2.2\ToDoApi2.deps.json
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\bin\Debug\netcoreapp2.2\ToDoApi2.runtimeconfig.json
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\bin\Debug\netcoreapp2.2\ToDoApi2.runtimeconfig.dev.json
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\bin\Debug\netcoreapp2.2\ToDoApi2.dll
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\bin\Debug\netcoreapp2.2\ToDoApi2.pdb
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.2\ToDoApi2.csproj.CoreCompileInputs.cache
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.2\ToDoApi2.RazorAssemblyInfo.cache
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.2\ToDoApi2.RazorAssemblyInfo.cs
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.2\ToDoApi2.AssemblyInfoInputs.cache
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.2\ToDoApi2.AssemblyInfo.cs
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.2\ToDoApi2.RazorTargetAssemblyInfo.cache
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.2\ToDoApi2.dll
+C:\Users\12082\Documents\.Net Software\MongoDB\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.2\ToDoApi2.pdb
+C:\Users\12082\Documents\.Net Software\MongoDB\TodoApi2\ToDoApi2\obj\Debug\netcoreapp2.2\ToDoApi2.csprojAssemblyReference.cache
